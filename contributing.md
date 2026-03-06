@@ -1,8 +1,8 @@
-\# Contributing to DARSHAN
+## Contributing to DARSHAN
 
 
 
-Thank you for your interest in contributing to \*\*DARSHAN by 8oMATE\*\*.
+Thank you for your interest in contributing to **DARSHAN by 8oMATE**.
 
 
 
@@ -18,11 +18,11 @@ We welcome contributions from developers, researchers, and community members who
 
 
 
-\# Code of Conduct
+## Code of Conduct
 
 
 
-All contributors are expected to follow our \*\*Code of Conduct\*\*.
+All contributors are expected to follow our **Code of Conduct**.
 
 
 
@@ -30,7 +30,7 @@ Please read:
 
 
 
-\*\*\[CODE\_OF\_CONDUCT.md](CODE\_OF\_CONDUCT.md)\*\*
+**\[CODE\_OF\_CONDUCT.md](CODE\_OF\_CONDUCT.md)**
 
 
 
@@ -42,7 +42,7 @@ before contributing.
 
 
 
-\# Ways to Contribute
+## Ways to Contribute
 
 
 
@@ -50,21 +50,21 @@ You can contribute to DARSHAN in several ways:
 
 
 
-\* Reporting bugs
+* Reporting bugs
 
-\* Suggesting new features
+* Suggesting new features
 
-\* Improving documentation
+* Improving documentation
 
-\* Fixing bugs
+* Fixing bugs
 
-\* Implementing new models
+* Implementing new models
 
-\* Improving system performance
+* Improving system performance
 
-\* Adding datasets or evaluation scripts
+* Adding datasets or evaluation scripts
 
-\* Enhancing edge-device deployment support
+* Enhancing edge-device deployment support
 
 
 
@@ -72,11 +72,11 @@ You can contribute to DARSHAN in several ways:
 
 
 
-\# Getting Started
+## Getting Started
 
 
 
-\## 1. Fork the Repository
+### 1. Fork the Repository
 
 
 
@@ -96,7 +96,7 @@ https://github.com/nandisagnik/DARSHAN-by-8oMATE
 
 
 
-\## 2. Clone Your Fork
+### 2. Clone Your Fork
 
 
 
@@ -114,7 +114,7 @@ cd DARSHAN-by-8oMATE
 
 
 
-\## 3. Install Dependencies
+### 3. Install Dependencies
 
 
 
@@ -142,7 +142,7 @@ pip install -r requirements-dev.txt
 
 
 
-\## 4. Create a Branch
+### 4. Create a Branch
 
 
 
@@ -180,7 +180,7 @@ docs/update-readme
 
 
 
-\# Development Guidelines
+## Development Guidelines
 
 
 
@@ -188,15 +188,15 @@ Please follow these guidelines when contributing.
 
 
 
-\### Code Style
+#### Code Style
 
 
 
-\* Follow \*\*PEP 8\*\* Python style guidelines
+* Follow **PEP 8** Python style guidelines
 
-\* Write clear, readable, and well-documented code
+* Write clear, readable, and well-documented code
 
-\* Add comments where needed
+* Add comments where needed
 
 
 
@@ -218,7 +218,7 @@ flake8
 
 
 
-\### Commit Message Style
+#### Commit Message Style
 
 
 
@@ -248,7 +248,7 @@ refactor: improve temporal segmentation module
 
 
 
-\# Submitting a Pull Request
+## Submitting a Pull Request
 
 
 
@@ -264,7 +264,7 @@ git push origin feature/your-feature-name
 
 
 
-2\. Open a \*\*Pull Request\*\* on GitHub:
+2\. Open a **Pull Request** on GitHub:
 
 
 
@@ -276,13 +276,13 @@ https://github.com/nandisagnik/DARSHAN-by-8oMATE
 
 
 
-\* clear description of the change
+* clear description of the change
 
-\* motivation for the change
+* motivation for the change
 
-\* steps to test the change
+* steps to test the change
 
-\* related issue number (if applicable)
+* related issue number (if applicable)
 
 
 
@@ -290,7 +290,7 @@ https://github.com/nandisagnik/DARSHAN-by-8oMATE
 
 
 
-\# Pull Request Review Process
+## Pull Request Review Process
 
 
 
@@ -298,13 +298,13 @@ Maintainers will review pull requests based on:
 
 
 
-\* correctness
+* correctness
 
-\* code quality
+* code quality
 
-\* compatibility with project architecture
+* compatibility with project architecture
 
-\* documentation quality
+* documentation quality
 
 
 
@@ -316,23 +316,23 @@ You may be asked to make revisions before your pull request is merged.
 
 
 
-\# Reporting Bugs
+## Reporting Bugs
 
 
 
-If you encounter a bug, please open a \*\*GitHub Issue\*\* and include:
+If you encounter a bug, please open a **GitHub Issue** and include:
 
 
 
-\* description of the issue
+* description of the issue
 
-\* steps to reproduce
+* steps to reproduce
 
-\* expected behavior
+* expected behavior
 
-\* screenshots or logs if applicable
+* screenshots or logs if applicable
 
-\* system information (OS, Python version)
+* system information (OS, Python version)
 
 
 
@@ -348,7 +348,7 @@ https://github.com/nandisagnik/DARSHAN-by-8oMATE/issues
 
 
 
-\# Feature Requests
+## Feature Requests
 
 
 
@@ -360,11 +360,11 @@ Please open an issue describing:
 
 
 
-\* the problem you want to solve
+* the problem you want to solve
 
-\* your proposed solution
+* your proposed solution
 
-\* possible alternatives
+* possible alternatives
 
 
 
@@ -372,7 +372,7 @@ Please open an issue describing:
 
 
 
-\# Documentation Contributions
+## Documentation Contributions
 
 
 
@@ -384,15 +384,15 @@ Examples:
 
 
 
-\* fixing typos
+* fixing typos
 
-\* clarifying explanations
+* clarifying explanations
 
-\* adding tutorials
+* adding tutorials
 
-\* improving examples
+* improving examples
 
-\* expanding API documentation
+* expanding API documentation
 
 
 
@@ -400,7 +400,7 @@ Examples:
 
 
 
-\# Project Roadmap
+## Project Roadmap
 
 
 
@@ -408,7 +408,7 @@ See the roadmap for upcoming features and long-term goals.
 
 
 
-\*\*\[ROADMAP.md](ROADMAP.md)\*\*
+**\[ROADMAP.md](ROADMAP.md)**
 
 
 
@@ -416,7 +416,7 @@ See the roadmap for upcoming features and long-term goals.
 
 
 
-\# Thank You
+## Thank You
 
 
 
