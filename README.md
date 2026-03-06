@@ -250,26 +250,40 @@ DARSHAN-by-8oMATE
 ├── api.py
 ├── analyze_segments.py
 ├── temporal_segments.py
+├── run_segments.py
 ├── build_vector_db_clip.py
 ├── ask_video_clip.py
-├── total_understanding.py
 │
 ├── panns_infer.py
 │
+├── class_labels_indices.csv
+│
 ├── timeline.json
-├── timeline_human.json
 │
 ├── docs
 │   ├── DATASET.md
 │   ├── MODEL_ARCHITECTURE.md
 │   ├── EXPERIMENTS.md
 │
+├── frontend
+│   ├── style.css
+│   ├── script.js
+│   ├── logo.png
+│   ├── index.html
+│
+├── audioset_tagging_cnn/
+│   ├── pytorch/ # CNN model implementation
+│   ├── utils/ # helper functions
+│   ├── scripts/ # inference scripts
+│   ├── metadata/ # dataset metadata
+│   └── resources/ # class labels etc
+│
 ├── requirements.txt
 ├── requirements-dev.txt
 │
-├── CONTRIBUTING.md
-├── CODE_OF_CONDUCT.md
-├── ROADMAP.md
+├── contributing.md
+├── code_of_conduct.md
+├── roadmap.md
 ├── LICENSE
 └── THIRD_PARTY_LICENSES.md
 ```
@@ -287,7 +301,7 @@ Planned developments include:
 * Voice-enabled user interface
 * Privacy-preserving intelligent camera systems
 
-See **ROADMAP.md** for details.
+See **roadmap.md** for details.
 
 ---
 
@@ -320,7 +334,7 @@ If you use DARSHAN in your research, please cite:
 
 ```bibtex
 @software{darshan2026,
-  title={DARSHAN: Distributed Audio-visual Reasoning System for Human-centric Analytics},
+  title={DARSHAN: Deep Audio-Video Retrieval for Semantic Hybrid Answering Network},
   author={8oMATE Team},
   year={2026},
   url={https://github.com/nandisagnik/DARSHAN-by-8oMATE}
