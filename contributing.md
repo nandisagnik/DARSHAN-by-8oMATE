@@ -30,7 +30,7 @@ Please read:
 
 
 
-**\[CODE\_OF\_CONDUCT.md](CODE\_OF\_CONDUCT.md)**
+**[Code of Conduct](https://github.com/nandisagnik/DARSHAN-by-8oMATE/blob/main/CODE_OF_CONDUCT.md)**
 
 
 
@@ -408,7 +408,7 @@ See the roadmap for upcoming features and long-term goals.
 
 
 
-**\[ROADMAP.md](ROADMAP.md)**
+**[Roadmap](https://github.com/nandisagnik/DARSHAN-by-8oMATE/blob/main/roadmap.md)**
 
 
 
@@ -425,6 +425,7 @@ Your contributions help improve DARSHAN and make it more useful for the communit
 
 
 We appreciate your time and effort in contributing to the project.
+
 
 
 
